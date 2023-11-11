@@ -7,7 +7,7 @@ yes!!!here you can see all kinds of rubbish.:yum:
 if you are the one who is ignorant of how to use github and git to become a developer,<br>
 i would recommend you to have a try on this website: ***[a goood github learning leader](https://learngitbranching.js.org/?locale=zh_CN "I think it is the best tutorial website")***,<br>
 and for some unavoidable reasons (is about the website itslef, the author said.)<br>
-you will need this website as a supplement ```Git ``merge commit``: ***[tutorial website of merge commit ](https://zhuanlan.zhihu.com/p/139321091 "I take it randomly on search engine, though")***<br>
+you will need this website as a supplement ``merge commit``: ***[tutorial website of merge commit ](https://zhuanlan.zhihu.com/p/139321091 "I take it randomly on search engine, though")***<br>
 <br>
 ###*and about MarkDown*<br>:kissing:
 this website: ***[Markdown tutorial website](https://markdown.com.cn/basic-syntax/emphasis.html "really good, maybe it really is the greatest document as he sait")*** maybe good for you.<br>
