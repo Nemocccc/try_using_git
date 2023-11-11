@@ -11,7 +11,7 @@ you will need this website as a supplement ``merge commit``: ***[tutorial websit
 <br>
 ###*and about MarkDown*<br>:kissing:
 this website: ***[Markdown tutorial website](https://markdown.com.cn/basic-syntax/emphasis.html "really good, maybe it really is the greatest document as he sait")*** maybe good for you.<br>
-if you want to use emoji, *click here*: ***[`emoil web`](https://gist.github.com/rxaviers/7360908 "obviously simple and useful")***<br>
+if you want to use emoji, *click here*: ***[`emoij web`](https://gist.github.com/rxaviers/7360908 "obviously simple and useful")***<br>
 also the emoji's original website: ***<https://emojipedia.org/>***<br>
  - - -
 >#####at last: wish you all the best on you journey of life:blush:
