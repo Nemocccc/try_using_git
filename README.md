@@ -1,6 +1,4 @@
 # <font color=#008000>***try_using_git***</font>😵[^1]. 
-[^1]: i want to change the style of my content here, well, it seem to be in no use.
-
 this repository is used as a trash to contain wy inferior codes and others i produced.
 <br><br>
 yes!!!here you can see all kinds of rubbish.😋
@@ -45,3 +43,4 @@ to make a table or index like this, *click here*: ***[`create table`](https://ww
    
    [![github, the logo of github](https://umaar.github.io/experiments/github-3d-logo/render-2.jpg "github_logo")](https://github.com/Nemocccc/try_using_git)
 
+[^1]: i want to change the style of my content here, well, it seem to be in no use.
