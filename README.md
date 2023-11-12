@@ -4,16 +4,16 @@ this repository is used as a trash to contain wy inferior codes and others i pro
 yes!!!here you can see all kinds of rubbish.😋
  - - -
 ## <font color=Blue>***Table of content***</font>😏
-1. [**An easy way to become a githuber**](#An easy way to become a githuber)
+1. [**An easy way to become a githuber**](# An easy way to become a githuber)
     - learngit
     - supplement
-2. [**markdown**](#and about MarkDown)
+2. [**markdown**](# and about MarkDown)
     - Official documentation
     - tutorial web
     - image links
     - use emoji in markdown
     - change content's style
-3. [good bye: ends](#at last: wish you all the best on you journey of life)
+3. [good bye: ends](# at last: wish you all the best on you journey of life)
     - some wisdom words
  - - -
 ### <font color=red>***An easy way to become a githuber***</font>:😃<br>
@@ -35,5 +35,8 @@ want to change the style of you content? *click here*: ***[`change content style
 > - A thousand miles of journey begins with one step.😉
 > - keep chasing and you can get close to what you want, this is what i mean in my personalized signature.🏃
 > - Thank You!😆
-    [![github, the logo of github](https://umaar.github.io/experiments/github-3d-logo/render-2.jpg "github_logo")](https://github.com/Nemocccc/try_using_git)
+
+> - wait! in case of infringement, please contact the author to correct it
+   
+   [![github, the logo of github](https://umaar.github.io/experiments/github-3d-logo/render-2.jpg "github_logo")](https://github.com/Nemocccc/try_using_git)
 
