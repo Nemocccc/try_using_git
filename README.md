@@ -17,16 +17,17 @@ yes!!!here you can see all kinds of rubbish.😋
 3. [**good bye: ends**](#at-last-wish-you-all-the-best-on-you-journey-of-life)
     - some wisdom words
  - - -
-### <font color=red>***An easy way to become a githuber***</font>:😃<br>
+### <font color=red>***An easy way to become a githuber***</font>😃<br>
 if you are the one who is ignorant of how to use github and git to become a developer,<br>
 i would recommend you to have a try on this website: ***[a goood github learning leader](https://learngitbranching.js.org/?locale=zh_CN "I think it is the best tutorial website")***,<br>
 and for some unavoidable reasons (is about the website itslef, the author said.)<br>
 you will need this website as a supplement ``merge commit``: ***[tutorial website of merge commit ](https://zhuanlan.zhihu.com/p/139321091 "I take it randomly on search engine, though")*** 😊<br>
  - [**go back to table**](Table-of-content)<br>
 <br>
-### ***and about MarkDown***😗<br>
+### <font color=yellow>***and about MarkDown***</span>😗<br>
 want to learn on github's official documentation? *click here:* ***[github official documentation](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "fit well for github")<br>
-however, i recommend this website: ***[Markdown tutorial website](https://markdown.com.cn/basic-syntax/emphasis.html "really good, maybe it really is the greatest document as he sait")*** maybe good for you.<br>
+however, i recommend this website: ***[Markdown tutorial website](https://markdown.com.cn/basic-syntax/emphasis.html "really good, maybe it really is the greatest document as he sait.")*** maybe good for you.<br>
+though, the official document is someway much better.<br>
 and detailss on inserting image links, *click here*: ***[`inserting image links`](https://blog.csdn.net/xapxxf/article/details/105133999 "fit for anyone")*** <br>
 if you want to use emoji, *click here*: ***[`emoji web`](https://gist.github.com/rxaviers/7360908 "obviously simple and useful")*** <br>
 also the emoji's original website: ***<https://emojipedia.org/>***<br>
