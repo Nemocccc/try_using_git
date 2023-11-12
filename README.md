@@ -35,6 +35,6 @@ want to change the style of you content? *click here*: ***[`change content style
 > - A thousand miles of journey begins with one step.😉
 > - keep chasing and you can get close to what you want, this is what i mean in my personalized signature.🏃
 > - Thank You!😆
-    [![github, the logo of github](https://umaar.github.io/experiments/github-3d-logo/render-2.jpg "😊github_logo")](https://github.com/Nemocccc/try_using_git)
+    [![github, the logo of github](https://umaar.github.io/experiments/github-3d-logo/render-2.jpg "github_logo")](https://github.com/Nemocccc/try_using_git)
 
  - # In case of infringement, please contact the author!<br>
