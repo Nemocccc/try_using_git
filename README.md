@@ -23,7 +23,6 @@ i would recommend you to have a try on this website: ***[a goood github learning
 and for some unavoidable reasons (is about the website itslef, the author said.)<br>
 you will need this website as a supplement ``merge commit``: ***[tutorial website of merge commit ](https://zhuanlan.zhihu.com/p/139321091 "I take it randomly on search engine, though")***😊<br>
  - [**go back to table**](#Table-of-content)<br>
-<br>
 ### <font color=red>***and about MarkDown***</font>😗<br>
 want to learn on github's official documentation? *click here:* ***[github official documentation](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax "fit well for github")<br>
 however, i recommend this website: ***[Markdown tutorial website](https://markdown.com.cn/basic-syntax/emphasis.html "really good, maybe it really is the greatest document as he sait.")*** maybe good for you.<br>
