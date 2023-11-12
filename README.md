@@ -1,5 +1,6 @@
 # <font color=#008000>***try_using_git***</font>😵[^1]. 
 [^1]: i want to change the style of my content here, well, it seem to be in no use.
+
 this repository is used as a trash to contain wy inferior codes and others i produced.
 <br><br>
 yes!!!here you can see all kinds of rubbish.😋
