@@ -1,4 +1,4 @@
-# <font color=#008000>***try_using_git***</font>😵[^1]. 
+# <font color=#008000>***try_using_git***</font>😵[^1] 
 this repository is used as a trash to contain wy inferior codes and others i produced.
 <br><br>
 yes!!!here you can see all kinds of rubbish.😋
