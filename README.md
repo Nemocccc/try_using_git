@@ -43,5 +43,7 @@ to make a table or index like this, *click here*: [***`create table`***](https:/
  - [**go back to table**](#Table-of-content)
    
    [![***github, the logo of github***](https://umaar.github.io/experiments/github-3d-logo/render-2.jpg "github_logo")](https://github.com/Nemocccc/try_using_git)
+   ***don't click the picture, because there is a implicit link behind it, which is used to note and practice my markdown grammer**
+   here is the origin link of the [**picture**](https://umaar.github.io/experiments/github-3d-logo/render-2.jpg)
 
 [^1]: i originally want to change the style of content here. well, it seems to be in no use.
