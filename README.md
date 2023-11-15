@@ -4,7 +4,7 @@ this repository is used as a trash to contain wy inferior codes and others i pro
 yes!!!here you can see all kinds of rubbish.😋
  - - -
  ## <font color=blue>***Table of files***</font>😊
- 1. plans.md
+ 1. [my-study-plans](plans.md)
  - - -
 ## <font color=Blue>***Table of content***</font>😏
 1. [**An easy way to become a githuber**](#An-easy-way-to-become-a-githuber)
