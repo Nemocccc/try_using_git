@@ -18,6 +18,8 @@
     3. 强化学习
          - - [ ] 书本 ***深度强化学习***
 
+[go back to README.md](README-md)
+
 ```python
 {
     print("hello world")
@@ -29,6 +31,7 @@
         print("hello world")
     hello()
 [^3]
+~~写着玩的~~
 
 [^1]: 中英文之间加空格是必须的
 [^2]: 围栏式代码块
