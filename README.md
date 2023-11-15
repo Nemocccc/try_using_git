@@ -39,7 +39,7 @@ to make a table or index like this, *click here*: [***`create table`***](https:/
 > - A thousand miles of journey begins with one step.😉
 > - keep chasing and you can get close to what you want, this is what i mean in my personalized signature.🏃
 > - Thank You!😆
-> - wait! in case of infringement, please contact the author to correct it.😲
+>> - wait! in case of infringement, please contact the author to correct it.😲
  - [**go back to table**](#Table-of-content)
    
    [![***github, the logo of github***](https://umaar.github.io/experiments/github-3d-logo/render-2.jpg "github_logo")](https://github.com/Nemocccc/try_using_git)
