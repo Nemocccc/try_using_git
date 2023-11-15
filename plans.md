@@ -18,7 +18,7 @@
     3. 强化学习
          - - [ ] 书本 ***深度强化学习***
 
-[go back to README.md](README-md)
+[go back to README.md](README.md)
 
 ```python
 {
