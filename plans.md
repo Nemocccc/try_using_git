@@ -17,11 +17,18 @@
     3. 强化学习
          - 书本 ***深度强化学习***
 
-```python[^2]
+```python
 {
     print("hello world")
 }
 ```
+[^2]
+
+    def hello()
+        print("hello world")
+    hello()
+[^3]
 
 [^1]: 中英文之间加空格是必须的
 [^2]: 围栏式代码块
+[^3]: 缩进式代码块
